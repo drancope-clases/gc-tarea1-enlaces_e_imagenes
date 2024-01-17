@@ -19,17 +19,18 @@ Añadir una carpeta con imágenes y crear un enlace a nuestro perfil de GitHub
 
 3. Al final de nuestra página (el archivo *index.html*), insertaremos un enlace a nuestro usuario de github, con el texto *"perfil personal"* o algo similar.
    ![image](https://github.com/drancope-clases/gc-tarea1-enlaces_e_imagenes/assets/19663469/0b54d81a-bded-49f4-afe6-c9e8b34c3901)
-Grabar, hacer ***commit*** y publicar la rama.
+Grabar, hacer ***commit*** y publicar la rama (si la hemos creado con **VSCode**).
 4. Crear una carpeta de nombre **img** dentro de nuestro repositorio de página web.
    ![image](https://github.com/drancope-clases/gc-tarea1-enlaces_e_imagenes/assets/19663469/aee6b40a-3da3-4b48-b002-d69c7b14876d)
    Descargar una imágen o crearla de alguna manera, para usarla en la cabecera de la web. Copiarla dentro de la carpeta anterior.
-   Grabar, hacer ***commit*** y publicar la rama.
+   Grabar, hacer ***commit*** y sincronizar.
 5. Escribir el código de la imagen en nuestra página:
    ![image](https://github.com/drancope-clases/gc-tarea1-enlaces_e_imagenes/assets/19663469/b29ab4ae-787f-4327-ba3f-fc615cbbadc4)
+   Grabar, hacer ***commit*** y sincronizar.
 
 ## Marca la casilla cuando tengas la tarea completada:
-[ ] 1
-[ ] 2
-[ ] 3
-[ ] 4
-[ ] 5
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
