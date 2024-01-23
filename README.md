@@ -16,6 +16,7 @@ Añadir una carpeta con imágenes y crear un enlace a nuestro perfil de GitHub
     ![image](https://github.com/drancope-clases/gc-tarea1-enlaces_e_imagenes/assets/19663469/15e046a6-a7ef-46c1-b71f-77f16dd35427)
 
 2. Si hemos creado la rama desde la web, tener cuidado al empezar a trabajar con **VSCode**, ya que tenemos que tener "*cargada*" esa rama, para trabajar en ella:
+
    ![image](https://github.com/drancope-clases/gc-tarea1-enlaces_e_imagenes/assets/19663469/7c246e3b-6728-416d-b670-67cca3db03bf)
 
 3. Al final de nuestra página (el archivo *index.html*), insertaremos un enlace a nuestro usuario de github, con el texto *"perfil personal"* o algo similar.
